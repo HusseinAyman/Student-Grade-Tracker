@@ -1,0 +1,6 @@
+Student: Student5
+Math: [82, 59, 85] | Avg: 75.33
+Science: [85, 70, 66] | Avg: 73.67
+English: [86, 61, 61] | Avg: 69.33
+Art: [88, 100, 98] | Avg: 95.33
+Overall Average: 78.42%
